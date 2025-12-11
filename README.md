@@ -1,4 +1,4 @@
-# loggers-repo
+# loggers-implementation
 
 This repository contains files for loggers implementation in Java Maven Project.
 
