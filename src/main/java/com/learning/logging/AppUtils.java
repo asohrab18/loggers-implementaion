@@ -7,8 +7,8 @@ public class AppUtils {
 	private static final Logger LOG = Logger.getLogger(AppUtils.class);
 
 	public static void show() {
-		LOG.info("Hello World of Loggers Impl!");
-		LOG.info("Welcome Back!");
+		LOG.info("Hello World of Loggers Implementation!");
+		LOG.info("Welcome Here!");
 	}
 
 	public static void main(String[] args) {
